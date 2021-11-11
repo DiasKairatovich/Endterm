@@ -1,0 +1,19 @@
+{
+  "name": "end-term",
+  "version": "1.0.0",
+  "description": "This is an end-term project ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Dissa17/Endterm.git"
+  },
+  "author": "Dias Shaymerdenov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dissa17/Endterm/issues"
+  },
+  "homepage": "https://github.com/Dissa17/Endterm#readme"
+}
